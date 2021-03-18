@@ -1,0 +1,11 @@
+{
+    "name": "rahul/hello-composer",
+    "description": "A simple hello world composer package",
+    "authors": [
+        {
+            "name": "rahul bisht",
+            "email": "rahul2.bisht@paytm.com"
+        }
+    ],
+    "require": {}
+}
